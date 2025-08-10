@@ -5,7 +5,7 @@
   "main": "./src/deriv_api/DerivAPIBasic.js",
   "unpkg": "dist/DerivAPI.js",
   "files": [
-    "dist/*.js"
+    "*"
   ],
   "scripts": {
     "test": "jest --verbose --forceExit",
